@@ -1,0 +1,6 @@
+devel_space: /home/rmy/sensor_driver/devel
+install: false
+install_space: /home/rmy/sensor_driver/install
+profile: default
+source_space: /home/rmy/sensor_driver/src
+workspace: /home/rmy/sensor_driver

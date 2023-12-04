@@ -1,0 +1,6 @@
+rslidar_sdk
+/home/rmy/sensor_driver/devel/.private/rslidar_sdk/cmake.lock /home/rmy/sensor_driver/devel/./cmake.lock
+/home/rmy/sensor_driver/devel/.private/rslidar_sdk/lib/pkgconfig/rslidar_sdk.pc /home/rmy/sensor_driver/devel/lib/pkgconfig/rslidar_sdk.pc
+/home/rmy/sensor_driver/devel/.private/rslidar_sdk/lib/rslidar_sdk/rslidar_sdk_node /home/rmy/sensor_driver/devel/lib/rslidar_sdk/rslidar_sdk_node
+/home/rmy/sensor_driver/devel/.private/rslidar_sdk/share/rslidar_sdk/cmake/rslidar_sdkConfig-version.cmake /home/rmy/sensor_driver/devel/share/rslidar_sdk/cmake/rslidar_sdkConfig-version.cmake
+/home/rmy/sensor_driver/devel/.private/rslidar_sdk/share/rslidar_sdk/cmake/rslidar_sdkConfig.cmake /home/rmy/sensor_driver/devel/share/rslidar_sdk/cmake/rslidar_sdkConfig.cmake

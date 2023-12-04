@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rmy/sensor_driver/devel/.private/perception_msgs/setup.sh

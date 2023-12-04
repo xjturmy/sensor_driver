@@ -1,0 +1,1 @@
+/home/rmy/sensor_driver/devel/.private/ars548_msg/share/roseus/ros/ars548_msg/msg/VelocityVehicle.l

@@ -1,0 +1,1 @@
+/home/rmy/sensor_driver/devel/.private/ouster_ros/share/ouster_ros/cmake/ouster_rosConfig.cmake

@@ -1,0 +1,2 @@
+set(perception_msgs_MESSAGE_FILES "/home/rmy/sensor_driver/src/common/perception_msgs/msg/radarobjects.msg;/home/rmy/sensor_driver/src/common/perception_msgs/msg/RadarObjectList.msg;/home/rmy/sensor_driver/src/common/perception_msgs/msg/Semantic.msg;/home/rmy/sensor_driver/src/common/perception_msgs/msg/Shape.msg;/home/rmy/sensor_driver/src/common/perception_msgs/msg/State.msg;/home/rmy/sensor_driver/src/common/perception_msgs/msg/DynamicObject.msg;/home/rmy/sensor_driver/src/common/perception_msgs/msg/DynamicObjectList.msg")
+set(perception_msgs_SERVICE_FILES "")

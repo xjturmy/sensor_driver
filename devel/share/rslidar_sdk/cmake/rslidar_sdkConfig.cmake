@@ -1,0 +1,1 @@
+/home/rmy/sensor_driver/devel/.private/rslidar_sdk/share/rslidar_sdk/cmake/rslidar_sdkConfig.cmake

@@ -1,0 +1,1 @@
+/home/rmy/sensor_driver/devel/.private/rslidar_sdk/lib/pkgconfig/rslidar_sdk.pc

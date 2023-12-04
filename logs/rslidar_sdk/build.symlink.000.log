@@ -1,0 +1,4 @@
+Symlinking /home/rmy/sensor_driver/devel/lib/pkgconfig/rslidar_sdk.pc
+Symlinking /home/rmy/sensor_driver/devel/lib/rslidar_sdk/rslidar_sdk_node
+Symlinking /home/rmy/sensor_driver/devel/share/rslidar_sdk/cmake/rslidar_sdkConfig-version.cmake
+Symlinking /home/rmy/sensor_driver/devel/share/rslidar_sdk/cmake/rslidar_sdkConfig.cmake

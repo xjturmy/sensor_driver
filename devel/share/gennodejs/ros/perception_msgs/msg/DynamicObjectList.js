@@ -1,0 +1,1 @@
+/home/rmy/sensor_driver/devel/.private/perception_msgs/share/gennodejs/ros/perception_msgs/msg/DynamicObjectList.js

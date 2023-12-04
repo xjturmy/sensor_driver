@@ -1,0 +1,16 @@
+(cl:in-package perception_msgs-msg)
+(cl:export '(POSE_COVARIANCE-VAL
+          POSE_COVARIANCE
+          ORIENTATION_RELIABLE-VAL
+          ORIENTATION_RELIABLE
+          TWIST_COVARIANCE-VAL
+          TWIST_COVARIANCE
+          TWIST_RELIABLE-VAL
+          TWIST_RELIABLE
+          ACCELERATION_COVARIANCE-VAL
+          ACCELERATION_COVARIANCE
+          ACCELERATION_RELIABLE-VAL
+          ACCELERATION_RELIABLE
+          PATH-VAL
+          PATH
+))

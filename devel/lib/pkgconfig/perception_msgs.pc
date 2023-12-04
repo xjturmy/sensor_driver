@@ -1,0 +1,1 @@
+/home/rmy/sensor_driver/devel/.private/perception_msgs/lib/pkgconfig/perception_msgs.pc

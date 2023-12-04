@@ -1,0 +1,1 @@
+/home/rmy/sensor_driver/devel/.private/ars548_msg/lib/python3/dist-packages/ars548_msg/msg/_DrivingDirection.py

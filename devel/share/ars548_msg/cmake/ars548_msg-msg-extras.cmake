@@ -1,0 +1,1 @@
+/home/rmy/sensor_driver/devel/.private/ars548_msg/share/ars548_msg/cmake/ars548_msg-msg-extras.cmake

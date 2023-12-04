@@ -1,0 +1,1192 @@
+[35m[1mScanning dependencies of target ouster_generate_header[0m
+[35m[1mScanning dependencies of target _ouster_ros_generate_messages_check_deps_GetMetadata[0m
+[35m[1mScanning dependencies of target _ouster_ros_generate_messages_check_deps_SetConfig[0m
+[35m[1mScanning dependencies of target _ouster_ros_generate_messages_check_deps_GetConfig[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target _ouster_ros_generate_messages_check_deps_PacketMsg[0m
+[34m[1mGenerating build info header[0m
+[  0%] Built target _ouster_ros_generate_messages_check_deps_GetConfig
+[  0%] Built target _ouster_ros_generate_messages_check_deps_SetConfig
+[  0%] Built target _ouster_ros_generate_messages_check_deps_GetMetadata
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target ouster_generate_header
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target ouster_client[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _ouster_ros_generate_messages_check_deps_PacketMsg
+[35m[1mScanning dependencies of target ouster_ros_generate_messages_eus[0m
+[35m[1mScanning dependencies of target ouster_ros_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target ouster_ros_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target ouster_ros_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target ouster_ros_generate_messages_py[0m
+[ 13%] [34m[1mGenerating Lisp code from ouster_ros/PacketMsg.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from ouster_ros/GetConfig.srv[0m
+[ 13%] [34m[1mGenerating Lisp code from ouster_ros/GetMetadata.srv[0m
+[ 13%] [34m[1mGenerating Javascript code from ouster_ros/PacketMsg.msg[0m
+[ 13%] [34m[1mGenerating EusLisp code from ouster_ros/PacketMsg.msg[0m
+[ 13%] [34m[1mGenerating Javascript code from ouster_ros/GetConfig.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from ouster_ros/SetConfig.srv[0m
+[ 18%] [34m[1mGenerating C++ code from ouster_ros/PacketMsg.msg[0m
+[ 23%] [34m[1mGenerating C++ code from ouster_ros/GetConfig.srv[0m
+[ 23%] [34m[1mGenerating C++ code from ouster_ros/SetConfig.srv[0m
+[ 25%] [34m[1mGenerating Javascript code from ouster_ros/SetConfig.srv[0m
+[ 27%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/client.cpp.o[0m
+[ 30%] [34m[1mGenerating Javascript code from ouster_ros/GetMetadata.srv[0m
+[ 32%] [34m[1mGenerating EusLisp code from ouster_ros/GetConfig.srv[0m
+[ 34%] [34m[1mGenerating Python from MSG ouster_ros/PacketMsg[0m
+[ 37%] [34m[1mGenerating Python code from SRV ouster_ros/GetConfig[0m
+[ 39%] [34m[1mGenerating C++ code from ouster_ros/GetMetadata.srv[0m
+[ 39%] Built target ouster_ros_generate_messages_lisp
+[ 41%] [34m[1mGenerating Python code from SRV ouster_ros/SetConfig[0m
+[ 44%] [34m[1mGenerating Python code from SRV ouster_ros/GetMetadata[0m
+[ 46%] [34m[1mGenerating EusLisp code from ouster_ros/SetConfig.srv[0m
+[ 48%] [34m[1mGenerating EusLisp code from ouster_ros/GetMetadata.srv[0m
+[ 51%] [34m[1mGenerating EusLisp manifest code for ouster_ros[0m
+[ 53%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/types.cpp.o[0m
+[ 55%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/lidar_scan.cpp.o[0m
+[ 55%] Built target ouster_ros_generate_messages_nodejs
+[ 58%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/buffered_udp_source.cpp.o[0m
+[ 60%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/netcompat.cpp.o[0m
+[ 62%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/image_processing.cpp.o[0m
+[ 65%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/parsing.cpp.o[0m
+[ 67%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/sensor_http.cpp.o[0m
+[ 69%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/sensor_tcp_imp.cpp.o[0m
+[ 72%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/logging.cpp.o[0m
+[ 74%] [32mBuilding CXX object ouster_example/ouster_client/CMakeFiles/ouster_client.dir/src/sensor_http_imp.cpp.o[0m
+[ 74%] Built target ouster_ros_generate_messages_cpp
+[35m[1mScanning dependencies of target ouster_ros_gencpp[0m
+[ 74%] Built target ouster_ros_gencpp
+[ 79%] [34m[1mGenerating Python srv __init__.py for ouster_ros[0m
+[ 79%] [34m[1mGenerating Python msg __init__.py for ouster_ros[0m
+[ 79%] Built target ouster_ros_generate_messages_eus
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:63:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |         sensor::[01;35m[KRANGE[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:65:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   65 |         sensor::[01;35m[KSIGNAL[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:67:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   67 |         sensor::[01;35m[KNEAR_IR[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:69:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   69 |         sensor::[01;35m[KREFLECTIVITY[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:78:14:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   78 |         ts_t [01;35m[Ktimestamp[m[K;
+      |              [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:32:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  117 |     [[deprecated]] std::vector<[01;35m[KBlockHeader[m[K> headers{};
+      |                                [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:219:43:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  219 |     [[deprecated]] std::vector<LidarScan::[01;35m[Kts_t[m[K> timestamps() const;
+      |                                           [01;35m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:229:51:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  229 |     [[deprecated]] BlockHeader& header(size_t m_id[01;35m[K)[m[K;
+      |                                                   [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:232:59:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  232 |     [[deprecated]] const BlockHeader& header(size_t m_id) [01;35m[Kconst[m[K;
+      |                                                           [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  365 |                                const LidarScan::BlockHeader& b[01;35m[K)[m[K;
+      |                                                               [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:[m[K In function ‘[01m[Kbool ouster::sensor::operator==(const ouster::sensor::sensor_info&, const ouster::sensor::sensor_info&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:149:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  149 |     return (lhs.[01;35m[Kname[m[K == rhs.name && lhs.sn == rhs.sn &&
+      |                 [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:149:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  149 |     return (lhs.[01;35m[Kname[m[K == rhs.name && lhs.sn == rhs.sn &&
+      |                 [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:149:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  149 |     return (lhs.[01;35m[Kname[m[K == rhs.name && lhs.sn == rhs.sn &&
+      |                 [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:149:29:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  149 |     return (lhs.name == rhs.[01;35m[Kname[m[K && lhs.sn == rhs.sn &&
+      |                             [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:149:29:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  149 |     return (lhs.name == rhs.[01;35m[Kname[m[K && lhs.sn == rhs.sn &&
+      |                             [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[ 79%] Built target ouster_ros_generate_messages_py
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:149:29:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  149 |     return (lhs.name == rhs.[01;35m[Kname[m[K && lhs.sn == rhs.sn &&
+      |                             [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[35m[1mScanning dependencies of target ouster_ros_generate_messages[0m
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:[m[K In destructor ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:[m[K In function ‘[01m[Kouster::sensor::sensor_info ouster::sensor::default_sensor_info(ouster::sensor::lidar_mode)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:273:33:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’ first required here
+  273 |                                0[01;36m[K}[m[K;
+      |                                 [01;36m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:[m[K In constructor ‘[01m[Kouster::sensor::sensor_info::sensor_info(ouster::sensor::sensor_info&&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:[m[K In function ‘[01m[Kouster::sensor::sensor_info ouster::sensor::default_sensor_info(ouster::sensor::lidar_mode)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:273:33:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::sensor_info(ouster::sensor::sensor_info&&)[m[K’ first required here
+  273 |                                0[01;36m[K}[m[K;
+      |                                 [01;36m[K^[m[K
+[ 79%] Built target ouster_ros_generate_messages
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:[m[K In constructor ‘[01m[Kouster::LidarScan::LidarScan()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K At global scope:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:42:26:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::LidarScan::LidarScan()[m[K’ first required here
+   42 | LidarScan::LidarScan() = [01;36m[Kdefault[m[K;
+      |                          [01;36m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:[m[K In copy constructor ‘[01m[Kouster::LidarScan::LidarScan(const ouster::LidarScan&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K At global scope:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:43:42:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::LidarScan::LidarScan(const ouster::LidarScan&)[m[K’ first required here
+   43 | LidarScan::LidarScan(const LidarScan&) = [01;36m[Kdefault[m[K;
+      |                                          [01;36m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:[m[K In constructor ‘[01m[Kouster::LidarScan::LidarScan(ouster::LidarScan&&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K At global scope:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:44:37:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::LidarScan::LidarScan(ouster::LidarScan&&)[m[K’ first required here
+   44 | LidarScan::LidarScan(LidarScan&&) = [01;36m[Kdefault[m[K;
+      |                                     [01;36m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:[m[K In destructor ‘[01m[Kouster::LidarScan::~LidarScan()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:43:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 | class [01;35m[KLidarScan[m[K {
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K At global scope:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:47:27:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::LidarScan::~LidarScan()[m[K’ first required here
+   47 | LidarScan::~LidarScan() = [01;36m[Kdefault[m[K;
+      |                           [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K In constructor ‘[01m[Kouster::LidarScan::LidarScan(size_t, size_t, std::vector<std::pair<ouster::sensor::ChanField, ouster::sensor::ChanFieldType> >)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:125:44:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  125 |       headers{w, BlockHeader{ts_t{0}, 0, 0}[01;35m[K}[m[K {
+      |                                            [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:125:44:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  125 |       headers{w, BlockHeader{ts_t{0}, 0, 0}[01;35m[K}[m[K {
+      |                                            [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:125:44:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  125 |       headers{w, BlockHeader{ts_t{0}, 0, 0}[01;35m[K}[m[K {
+      |                                            [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:125:44:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  125 |       headers{w, BlockHeader{ts_t{0}, 0, 0}[01;35m[K}[m[K {
+      |                                            [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K At global scope:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:153:24:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  153 | std::vector<LidarScan::[01;35m[Kts_t[m[K> LidarScan::timestamps() const {
+      |                        [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K In member function ‘[01m[Kstd::vector<std::chrono::duration<long int, std::ratio<1, 1000000000> > > ouster::LidarScan::timestamps() const[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:154:28:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  154 |     std::vector<LidarScan::[01;35m[Kts_t[m[K> res;
+      |                            [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:155:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  155 |     res.reserve([01;35m[Kheaders[m[K.size());
+      |                 [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:155:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  155 |     res.reserve([01;35m[Kheaders[m[K.size());
+      |                 [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:156:26:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  156 |     for (const auto& h : [01;35m[Kheaders[m[K) res.push_back(h.timestamp);
+      |                          [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:156:26:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  156 |     for (const auto& h : [01;35m[Kheaders[m[K) res.push_back(h.timestamp);
+      |                          [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K At global scope:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:160:54:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  160 | LidarScan::BlockHeader& LidarScan::header(size_t m_id[01;35m[K)[m[K {
+      |                                                      [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K In member function ‘[01m[Kouster::LidarScan::BlockHeader& ouster::LidarScan::header(size_t)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:161:12:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  161 |     return [01;35m[Kheaders[m[K.at(m_id);
+      |            [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:161:12:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  161 |     return [01;35m[Kheaders[m[K.at(m_id);
+      |            [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K At global scope:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:164:62:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  164 | const LidarScan::BlockHeader& LidarScan::header(size_t m_id) [01;35m[Kconst[m[K {
+      |                                                              [01;35m[K^~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K In member function ‘[01m[Kconst ouster::LidarScan::BlockHeader& ouster::LidarScan::header(size_t) const[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:165:12:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  165 |     return [01;35m[Kheaders[m[K.at(m_id);
+      |            [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:165:12:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::headers[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  165 |     return [01;35m[Kheaders[m[K.at(m_id);
+      |            [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:45:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 |     [[deprecated]] std::vector<BlockHeader> [01;36m[Kheaders[m[K{};
+      |                                             [01;36m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:[m[K In function ‘[01m[Kouster::sensor::sensor_info ouster::sensor::parse_legacy(const string&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:738:10:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  738 |     info.[01;35m[Kname[m[K = root["hostname"].asString();
+      |          [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:738:10:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  738 |     info.[01;35m[Kname[m[K = root["hostname"].asString();
+      |          [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:738:10:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  738 |     info.[01;35m[Kname[m[K = root["hostname"].asString();
+      |          [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/types.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K At global scope:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:238:48:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  238 |                 const LidarScan::BlockHeader& b[01;35m[K)[m[K {
+      |                                                [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:238:48:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/parsing.cpp:[m[K In constructor ‘[01m[Kouster::sensor::packet_format::packet_format(const ouster::sensor::sensor_info&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/parsing.cpp:179:56:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::packet_format::encoder_ticks_per_rev[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  179 |       encoder_ticks_per_rev{impl::encoder_ticks_per_rev[01;35m[K}[m[K {
+      |                                                        [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/parsing.cpp:17[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:828:30:[m[K [01;36m[Knote: [m[Kdeclared here
+  828 |     [[deprecated]] const int [01;36m[Kencoder_ticks_per_rev[m[K;  ///< @deprecated
+      |                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/parsing.cpp:179:56:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::packet_format::encoder_ticks_per_rev[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  179 |       encoder_ticks_per_rev{impl::encoder_ticks_per_rev[01;35m[K}[m[K {
+      |                                                        [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/parsing.cpp:17[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:828:30:[m[K [01;36m[Knote: [m[Kdeclared here
+  828 |     [[deprecated]] const int [01;36m[Kencoder_ticks_per_rev[m[K;  ///< @deprecated
+      |                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/parsing.cpp:[m[K In member function ‘[01m[Kuint16_t ouster::sensor::packet_format::frame_id(const uint8_t*) const[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/parsing.cpp:274:50:[m[K [01;35m[Kwarning: [m[K‘[01m[Kuint16_t ouster::sensor::packet_format::col_frame_id(const uint8_t*) const[m[K’ is deprecated: Use frame_id instead [[01;35m[K-Wdeprecated-declarations[m[K]
+  274 |         return col_frame_id(nth_col(0, lidar_buf)[01;35m[K)[m[K;
+      |                                                  [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/parsing.cpp:17[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:965:53:[m[K [01;36m[Knote: [m[Kdeclared here
+  965 |     [[deprecated("Use frame_id instead")]] uint16_t [01;36m[Kcol_frame_id[m[K(
+      |                                                     [01;36m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:17[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:[m[K In copy constructor ‘[01m[Kouster::sensor::packet_format::packet_format(const ouster::sensor::packet_format&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:804:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::packet_format::encoder_ticks_per_rev[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  804 | class [01;35m[Kpacket_format[m[K final {
+      |       [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:828:30:[m[K [01;36m[Knote: [m[Kdeclared here
+  828 |     [[deprecated]] const int [01;36m[Kencoder_ticks_per_rev[m[K;  ///< @deprecated
+      |                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:804:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::packet_format::encoder_ticks_per_rev[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  804 | class [01;35m[Kpacket_format[m[K final {
+      |       [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:828:30:[m[K [01;36m[Knote: [m[Kdeclared here
+  828 |     [[deprecated]] const int [01;36m[Kencoder_ticks_per_rev[m[K;  ///< @deprecated
+      |                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K In constructor ‘[01m[Kouster::ScanBatcher::ScanBatcher(size_t, const ouster::sensor::packet_format&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:399:12:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::packet_format::packet_format(const ouster::sensor::packet_format&)[m[K’ first required here
+  399 |       pf(pf[01;36m[K)[m[K {}
+      |            [01;36m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K In function ‘[01m[Kvoid ouster::{anonymous}::zero_header_cols(ouster::LidarScan&, std::ptrdiff_t, std::ptrdiff_t)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:426:63:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::BlockHeader& ouster::LidarScan::header(size_t)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  426 |     for (auto m_id = start; m_id < end; m_id++) ls.header(m_id[01;35m[K)[m[K = {};
+      |                                                               [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:160:25:[m[K [01;36m[Knote: [m[Kdeclared here
+  160 | LidarScan::BlockHeader& [01;36m[KLidarScan[m[K::header(size_t m_id) {
+      |                         [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:[m[K In member function ‘[01m[Kbool ouster::ScanBatcher::operator()(const uint8_t*, ouster::LidarScan&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:497:56:[m[K [01;35m[Kwarning: [m[K‘[01m[Kuint32_t ouster::sensor::packet_format::col_encoder(const uint8_t*) const[m[K’ is deprecated: Use col_measurement_id instead [[01;35m[K-Wdeprecated-declarations[m[K]
+  497 |         const uint32_t encoder = pf.col_encoder(col_buf[01;35m[K)[m[K;
+      |                                                        [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:17[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:6[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:960:63:[m[K [01;36m[Knote: [m[Kdeclared here
+  960 |     [[deprecated("Use col_measurement_id instead")]] uint32_t [01;36m[Kcol_encoder[m[K(
+      |                                                               [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:512:23:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::LidarScan::BlockHeader& ouster::LidarScan::header(size_t)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  512 |         ls.header(m_id[01;35m[K)[m[K = {ts, encoder, status};
+      |                       [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/src/lidar_scan.cpp:160:25:[m[K [01;36m[Knote: [m[Kdeclared here
+  160 | LidarScan::BlockHeader& [01;36m[KLidarScan[m[K::header(size_t m_id) {
+      |                         [01;36m[K^~~~~~~~~[m[K
+[ 81%] [32m[1mLinking CXX static library /home/rmy/sensor_driver/devel/.private/ouster_ros/lib/libouster_client.a[0m
+[ 81%] Built target ouster_client
+[35m[1mScanning dependencies of target ouster_ros[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/ouster_ros.dir/src/os_ros.cpp.o[0m
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:25[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_ros.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:63:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |         sensor::[01;35m[KRANGE[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:65:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   65 |         sensor::[01;35m[KSIGNAL[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:67:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   67 |         sensor::[01;35m[KNEAR_IR[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:69:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   69 |         sensor::[01;35m[KREFLECTIVITY[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:78:14:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   78 |         ts_t [01;35m[Ktimestamp[m[K;
+      |              [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:32:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  117 |     [[deprecated]] std::vector<[01;35m[KBlockHeader[m[K> headers{};
+      |                                [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:219:43:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  219 |     [[deprecated]] std::vector<LidarScan::[01;35m[Kts_t[m[K> timestamps() const;
+      |                                           [01;35m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:229:51:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  229 |     [[deprecated]] BlockHeader& header(size_t m_id[01;35m[K)[m[K;
+      |                                                   [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:232:59:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  232 |     [[deprecated]] const BlockHeader& header(size_t m_id) [01;35m[Kconst[m[K;
+      |                                                           [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  365 |                                const LidarScan::BlockHeader& b[01;35m[K)[m[K;
+      |                                                               [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_ros.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:94:66:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   94 |                    ouster_ros::Cloud& cloud, int return_index = 0[01;35m[K)[m[K;
+      |                                                                  [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:25[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_ros.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_ros.cpp:129:62:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  129 |                    ouster_ros::Cloud& cloud, int return_index[01;35m[K)[m[K {
+      |                                                              [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:25[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_ros.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[ 86%] [32m[1mLinking CXX shared library /home/rmy/sensor_driver/devel/.private/ouster_ros/lib/libouster_ros.so[0m
+[ 86%] Built target ouster_ros
+[35m[1mScanning dependencies of target nodelets_os[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/nodelets_os.dir/src/os_client_base_nodelet.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/nodelets_os.dir/src/os_sensor_nodelet.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/nodelets_os.dir/src/os_replay_nodelet.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/nodelets_os.dir/src/os_cloud_nodelet.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/nodelets_os.dir/src/os_image_nodelet.cpp.o[0m
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_client_base_nodelet.h:13[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_replay_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:[m[K In destructor ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_replay_nodelet.cpp:[m[K In member function ‘[01m[Kvirtual void nodelets_os::OusterReplay::onInit()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_replay_nodelet.cpp:32:56:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’ first required here
+   32 |             info = sensor::metadata_from_json(meta_file[01;36m[K)[m[K;
+      |                                                        [01;36m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_client_base_nodelet.h:13[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_replay_nodelet.cpp:12[m[K:
+/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h: In instantiation of ‘[01m[KB* class_loader::impl::MetaObject<C, B>::create() const [with C = nodelets_os::OusterReplay; B = nodelet::Nodelet][m[K’:
+[01m[K/opt/ros/noetic/include/class_loader/meta_object.hpp:196:7:[m[K   required from here
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_replay_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_client_base_nodelet.h:17:7:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::sensor_info()[m[K’ first required here
+   17 | class [01;36m[KOusterClientBase[m[K : public nodelet::Nodelet {
+      |       [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_replay_nodelet.cpp:18:7:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Knodelets_os::OusterClientBase::OusterClientBase()[m[K’ first required here
+   18 | class [01;36m[KOusterReplay[m[K : public OusterClientBase {
+      |       [01;36m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/opt/ros/noetic/include/class_loader/class_loader_core.hpp:45[m[K,
+                 from [01m[K/opt/ros/noetic/include/class_loader/class_loader.hpp:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pluginlib/./class_list_macros.hpp:40[m[K,
+                 from [01m[K/opt/ros/noetic/include/pluginlib/class_list_macros.h:35[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_replay_nodelet.cpp:10[m[K:
+[01m[K/opt/ros/noetic/include/class_loader/meta_object.hpp:198:12:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Knodelets_os::OusterReplay::OusterReplay()[m[K’ first required here
+  198 |     return [01;36m[Knew C[m[K;
+      |            [01;36m[K^~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:25[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:63:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |         sensor::[01;35m[KRANGE[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:65:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   65 |         sensor::[01;35m[KSIGNAL[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:67:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   67 |         sensor::[01;35m[KNEAR_IR[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:69:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   69 |         sensor::[01;35m[KREFLECTIVITY[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:78:14:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   78 |         ts_t [01;35m[Ktimestamp[m[K;
+      |              [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:32:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  117 |     [[deprecated]] std::vector<[01;35m[KBlockHeader[m[K> headers{};
+      |                                [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:219:43:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  219 |     [[deprecated]] std::vector<LidarScan::[01;35m[Kts_t[m[K> timestamps() const;
+      |                                           [01;35m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:229:51:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  229 |     [[deprecated]] BlockHeader& header(size_t m_id[01;35m[K)[m[K;
+      |                                                   [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:232:59:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  232 |     [[deprecated]] const BlockHeader& header(size_t m_id) [01;35m[Kconst[m[K;
+      |                                                           [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  365 |                                const LidarScan::BlockHeader& b[01;35m[K)[m[K;
+      |                                                               [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:25[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_image_nodelet.cpp:17[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:63:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |         sensor::[01;35m[KRANGE[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:65:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   65 |         sensor::[01;35m[KSIGNAL[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:67:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   67 |         sensor::[01;35m[KNEAR_IR[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:69:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   69 |         sensor::[01;35m[KREFLECTIVITY[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:78:14:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   78 |         ts_t [01;35m[Ktimestamp[m[K;
+      |              [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:32:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  117 |     [[deprecated]] std::vector<[01;35m[KBlockHeader[m[K> headers{};
+      |                                [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:219:43:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  219 |     [[deprecated]] std::vector<LidarScan::[01;35m[Kts_t[m[K> timestamps() const;
+      |                                           [01;35m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:229:51:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  229 |     [[deprecated]] BlockHeader& header(size_t m_id[01;35m[K)[m[K;
+      |                                                   [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:232:59:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  232 |     [[deprecated]] const BlockHeader& header(size_t m_id) [01;35m[Kconst[m[K;
+      |                                                           [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  365 |                                const LidarScan::BlockHeader& b[01;35m[K)[m[K;
+      |                                                               [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:94:66:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   94 |                    ouster_ros::Cloud& cloud, int return_index = 0[01;35m[K)[m[K;
+      |                                                                  [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:25[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:25[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:63:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |         sensor::[01;35m[KRANGE[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:65:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   65 |         sensor::[01;35m[KSIGNAL[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:67:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   67 |         sensor::[01;35m[KNEAR_IR[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:69:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing Field = enum ouster::sensor::ChanField[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   69 |         sensor::[01;35m[KREFLECTIVITY[m[K;  ///< @deprecated
+      |                 [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:61:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   61 |     using [01;36m[KField[m[K [[deprecated]] = sensor::ChanField;  ///< @deprecated
+      |           [01;36m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:78:14:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   78 |         ts_t [01;35m[Ktimestamp[m[K;
+      |              [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:117:32:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  117 |     [[deprecated]] std::vector<[01;35m[KBlockHeader[m[K> headers{};
+      |                                [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:219:43:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  219 |     [[deprecated]] std::vector<LidarScan::[01;35m[Kts_t[m[K> timestamps() const;
+      |                                           [01;35m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:229:51:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  229 |     [[deprecated]] BlockHeader& header(size_t m_id[01;35m[K)[m[K;
+      |                                                   [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:232:59:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  232 |     [[deprecated]] const BlockHeader& header(size_t m_id) [01;35m[Kconst[m[K;
+      |                                                           [01;35m[K^~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:77:27:[m[K [01;36m[Knote: [m[Kdeclared here
+   77 |     struct [[deprecated]] [01;36m[KBlockHeader[m[K {
+      |                           [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  365 |                                const LidarScan::BlockHeader& b[01;35m[K)[m[K;
+      |                                                               [01;35m[K^[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:365:63:[m[K [01;35m[Kwarning: [m[K‘[01m[KBlockHeader[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_image_nodelet.cpp:17[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:94:66:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   94 |                    ouster_ros::Cloud& cloud, int return_index = 0[01;35m[K)[m[K;
+      |                                                                  [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:25[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_image_nodelet.cpp:17[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:[m[K In destructor ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:[m[K In member function ‘[01m[Kbool nodelets_os::OusterSensor::update_config_and_metadata(ouster::sensor::client&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:88:54:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’ first required here
+   88 |         info = sensor::parse_metadata(cached_metadata[01;36m[K)[m[K;
+      |                                                      [01;36m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:94:66:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing ts_t = std::chrono::nanoseconds[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   94 |                    ouster_ros::Cloud& cloud, int return_index = 0[01;35m[K)[m[K;
+      |                                                                  [01;35m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:25[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/lidar_scan.h:52:11:[m[K [01;36m[Knote: [m[Kdeclared here
+   52 |     using [01;36m[Kts_t[m[K [[deprecated]] = std::chrono::nanoseconds;  ///< @deprecated
+      |           [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:[m[K In member function ‘[01m[Kvoid nodelets_os::OusterSensor::populate_metadata_defaults(ouster::sensor::sensor_info&, ouster::sensor::lidar_mode)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:326:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  326 |         if (!info.[01;35m[Kname[m[K.size()) info.name = "UNKNOWN";
+      |                   [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:326:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  326 |         if (!info.[01;35m[Kname[m[K.size()) info.name = "UNKNOWN";
+      |                   [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:326:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  326 |         if (!info.[01;35m[Kname[m[K.size()) info.name = "UNKNOWN";
+      |                   [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:326:37:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  326 |         if (!info.name.size()) info.[01;35m[Kname[m[K = "UNKNOWN";
+      |                                     [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:326:37:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  326 |         if (!info.name.size()) info.[01;35m[Kname[m[K = "UNKNOWN";
+      |                                     [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:326:37:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  326 |         if (!info.name.size()) info.[01;35m[Kname[m[K = "UNKNOWN";
+      |                                     [01;35m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:[m[K In copy constructor ‘[01m[Kouster::sensor::packet_format::packet_format(const ouster::sensor::packet_format&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:804:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::packet_format::encoder_ticks_per_rev[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  804 | class [01;35m[Kpacket_format[m[K final {
+      |       [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:828:30:[m[K [01;36m[Knote: [m[Kdeclared here
+  828 |     [[deprecated]] const int [01;36m[Kencoder_ticks_per_rev[m[K;  ///< @deprecated
+      |                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:804:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::packet_format::encoder_ticks_per_rev[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  804 | class [01;35m[Kpacket_format[m[K final {
+      |       [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:828:30:[m[K [01;36m[Knote: [m[Kdeclared here
+  828 |     [[deprecated]] const int [01;36m[Kencoder_ticks_per_rev[m[K;  ///< @deprecated
+      |                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:[m[K In member function ‘[01m[Kvoid nodelets_os::OusterSensor::start_connection_loop()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:380:42:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::packet_format::packet_format(const ouster::sensor::packet_format&)[m[K’ first required here
+  380 |         auto pf = sensor::get_format(info[01;36m[K)[m[K;
+      |                                          [01;36m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:12[m[K:
+/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h: In instantiation of ‘[01m[KB* class_loader::impl::MetaObject<C, B>::create() const [with C = nodelets_os::OusterSensor; B = nodelet::Nodelet][m[K’:
+[01m[K/opt/ros/noetic/include/class_loader/meta_object.hpp:196:7:[m[K   required from here
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:24[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_client_base_nodelet.h:17:7:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::sensor_info()[m[K’ first required here
+   17 | class [01;36m[KOusterClientBase[m[K : public nodelet::Nodelet {
+      |       [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:34:7:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Knodelets_os::OusterClientBase::OusterClientBase()[m[K’ first required here
+   34 | class [01;36m[KOusterSensor[m[K : public OusterClientBase {
+      |       [01;36m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/opt/ros/noetic/include/class_loader/class_loader_core.hpp:45[m[K,
+                 from [01m[K/opt/ros/noetic/include/class_loader/class_loader.hpp:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pluginlib/./class_list_macros.hpp:40[m[K,
+                 from [01m[K/opt/ros/noetic/include/pluginlib/class_list_macros.h:35[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_sensor_nodelet.cpp:15[m[K:
+[01m[K/opt/ros/noetic/include/class_loader/meta_object.hpp:198:12:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Knodelets_os::OusterSensor::OusterSensor()[m[K’ first required here
+  198 |     return [01;36m[Knew C[m[K;
+      |            [01;36m[K^~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_image_nodelet.cpp:17[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:[m[K In destructor ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_image_nodelet.cpp:[m[K In member function ‘[01m[Kvirtual void nodelets_os::OusterImage::onInit()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_image_nodelet.cpp:62:65:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’ first required here
+   62 |         info = sensor::parse_metadata(metadata.response.metadata[01;36m[K)[m[K;
+      |                                                                 [01;36m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:[m[K In destructor ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:[m[K In member function ‘[01m[Kvirtual void nodelets_os::OusterCloud::onInit()[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:70:65:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::~sensor_info()[m[K’ first required here
+   70 |         info = sensor::parse_metadata(metadata.response.metadata[01;36m[K)[m[K;
+      |                                                                 [01;36m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:12[m[K:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:[m[K In copy constructor ‘[01m[Kouster::sensor::packet_format::packet_format(const ouster::sensor::packet_format&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:804:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::packet_format::encoder_ticks_per_rev[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  804 | class [01;35m[Kpacket_format[m[K final {
+      |       [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:828:30:[m[K [01;36m[Knote: [m[Kdeclared here
+  828 |     [[deprecated]] const int [01;36m[Kencoder_ticks_per_rev[m[K;  ///< @deprecated
+      |                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:804:7:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::packet_format::encoder_ticks_per_rev[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  804 | class [01;35m[Kpacket_format[m[K final {
+      |       [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:828:30:[m[K [01;36m[Knote: [m[Kdeclared here
+  828 |     [[deprecated]] const int [01;36m[Kencoder_ticks_per_rev[m[K;  ///< @deprecated
+      |                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:[m[K In member function ‘[01m[Kvoid nodelets_os::OusterCloud::imu_handler(const ConstPtr&)[m[K’:
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:187:42:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::packet_format::packet_format(const ouster::sensor::packet_format&)[m[K’ first required here
+  187 |         auto pf = sensor::get_format(info[01;36m[K)[m[K;
+      |                                          [01;36m[K^[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_image_nodelet.cpp:17[m[K:
+/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h: In instantiation of ‘[01m[KB* class_loader::impl::MetaObject<C, B>::create() const [with C = nodelets_os::OusterImage; B = nodelet::Nodelet][m[K’:
+[01m[K/opt/ros/noetic/include/class_loader/meta_object.hpp:196:7:[m[K   required from here
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_image_nodelet.cpp:46:7:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::sensor_info()[m[K’ first required here
+   46 | class [01;36m[KOusterImage[m[K : public nodelet::Nodelet {
+      |       [01;36m[K^~~~~~~~~~~[m[K
+In file included from [01m[K/opt/ros/noetic/include/class_loader/class_loader_core.hpp:45[m[K,
+                 from [01m[K/opt/ros/noetic/include/class_loader/class_loader.hpp:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pluginlib/./class_list_macros.hpp:40[m[K,
+                 from [01m[K/opt/ros/noetic/include/pluginlib/class_list_macros.h:35[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_image_nodelet.cpp:23[m[K:
+[01m[K/opt/ros/noetic/include/class_loader/meta_object.hpp:198:12:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Knodelets_os::OusterImage::OusterImage()[m[K’ first required here
+  198 |     return [01;36m[Knew C[m[K;
+      |            [01;36m[K^~~~~[m[K
+In file included from [01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/client.h:15[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/include/ouster_ros/os_ros.h:24[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:12[m[K:
+/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h: In instantiation of ‘[01m[KB* class_loader::impl::MetaObject<C, B>::create() const [with C = nodelets_os::OusterCloud; B = nodelet::Nodelet][m[K’:
+[01m[K/opt/ros/noetic/include/class_loader/meta_object.hpp:196:7:[m[K   required from here
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:371:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kouster::sensor::sensor_info::name[m[K’ is deprecated: Will be removed in the next version [[01;35m[K-Wdeprecated-declarations[m[K]
+  371 | struct [01;35m[Ksensor_info[m[K {
+      |        [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/ouster-sdk/ouster_client/include/ouster/types.h:373:9:[m[K [01;36m[Knote: [m[Kdeclared here
+  373 |         [01;36m[Kname[m[K;               ///< @deprecated Will be removed in the next version
+      |         [01;36m[K^~~~[m[K
+[01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:41:7:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Kouster::sensor::sensor_info::sensor_info()[m[K’ first required here
+   41 | class [01;36m[KOusterCloud[m[K : public nodelet::Nodelet {
+      |       [01;36m[K^~~~~~~~~~~[m[K
+In file included from [01m[K/opt/ros/noetic/include/class_loader/class_loader_core.hpp:45[m[K,
+                 from [01m[K/opt/ros/noetic/include/class_loader/class_loader.hpp:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pluginlib/./class_list_macros.hpp:40[m[K,
+                 from [01m[K/opt/ros/noetic/include/pluginlib/class_list_macros.h:35[m[K,
+                 from [01m[K/home/rmy/sensor_driver/src/ouster-ros/src/os_cloud_nodelet.cpp:16[m[K:
+[01m[K/opt/ros/noetic/include/class_loader/meta_object.hpp:198:12:[m[K [01;36m[Knote: [m[Ksynthesized method ‘[01m[Knodelets_os::OusterCloud::OusterCloud()[m[K’ first required here
+  198 |     return [01;36m[Knew C[m[K;
+      |            [01;36m[K^~~~~[m[K
+[100%] [32m[1mLinking CXX shared library /home/rmy/sensor_driver/devel/.private/ouster_ros/lib/libnodelets_os.so[0m
+[100%] Built target nodelets_os

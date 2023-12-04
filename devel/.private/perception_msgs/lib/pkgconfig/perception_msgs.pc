@@ -1,0 +1,8 @@
+prefix=/home/rmy/sensor_driver/devel/.private/perception_msgs
+
+Name: perception_msgs
+Description: Description of perception_msgs
+Version: 0.0.0
+Cflags: -I/home/rmy/sensor_driver/devel/.private/perception_msgs/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_generation roscpp std_msgs message_runtime

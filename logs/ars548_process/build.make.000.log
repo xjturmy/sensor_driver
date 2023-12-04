@@ -1,0 +1,15 @@
+[35m[1mScanning dependencies of target ars548_process_node[0m
+[35m[1mScanning dependencies of target info_convert_node[0m
+[35m[1mScanning dependencies of target test_radar_input_node[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/ars548_process_node.dir/src/data_process.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/test_radar_input_node.dir/src/test_radar_input_node.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/info_convert_node.dir/src/info_convert_node.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/ars548_process_node.dir/src/ars548_process_node.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/ars548_process_node.dir/src/udp_interface.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/ars548_process_node.dir/src/converttype.cpp.o[0m
+[ 77%] [32m[1mLinking CXX executable /home/rmy/sensor_driver/devel/.private/ars548_process/lib/ars548_process/test_radar_input_node[0m
+[ 77%] Built target test_radar_input_node
+[ 88%] [32m[1mLinking CXX executable /home/rmy/sensor_driver/devel/.private/ars548_process/lib/ars548_process/info_convert_node[0m
+[ 88%] Built target info_convert_node
+[100%] [32m[1mLinking CXX executable /home/rmy/sensor_driver/devel/.private/ars548_process/lib/ars548_process/ars548_process_node[0m
+[100%] Built target ars548_process_node

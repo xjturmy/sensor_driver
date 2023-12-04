@@ -1,0 +1,12 @@
+Symlinking /home/rmy/sensor_driver/devel/./env.sh
+Symlinking /home/rmy/sensor_driver/devel/./setup.sh
+Symlinking /home/rmy/sensor_driver/devel/./setup.zsh
+Symlinking /home/rmy/sensor_driver/devel/./_setup_util.py
+Symlinking /home/rmy/sensor_driver/devel/./cmake.lock
+Symlinking /home/rmy/sensor_driver/devel/./local_setup.sh
+Symlinking /home/rmy/sensor_driver/devel/./setup.bash
+Symlinking /home/rmy/sensor_driver/devel/./local_setup.zsh
+Symlinking /home/rmy/sensor_driver/devel/./local_setup.bash
+Symlinking /home/rmy/sensor_driver/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/rmy/sensor_driver/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/rmy/sensor_driver/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
